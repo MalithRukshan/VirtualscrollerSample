@@ -1,0 +1,11 @@
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\bin\Debug\netcoreapp2.0\VirtualscrollerSample.deps.json
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\bin\Debug\netcoreapp2.0\VirtualscrollerSample.runtimeconfig.json
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\bin\Debug\netcoreapp2.0\VirtualscrollerSample.runtimeconfig.dev.json
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\bin\Debug\netcoreapp2.0\VirtualscrollerSample.dll
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\bin\Debug\netcoreapp2.0\VirtualscrollerSample.pdb
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.csprojAssemblyReference.cache
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.csproj.CoreCompileInputs.cache
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.AssemblyInfoInputs.cache
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.AssemblyInfo.cs
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.dll
+C:\Users\mrp\source\repos\ASPRITSAMPLE\ASPRITSAMPLE\obj\Debug\netcoreapp2.0\VirtualscrollerSample.pdb
