@@ -22,7 +22,7 @@ namespace VirtualscrollerSample
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            var connection = @"Server=104.41.223.4; Database=QA-RoyalCare; User Id=sa; password=Welcome@321; MultipleActiveResultSets=True";
+            var connection = @"Server=; Database=; User Id=; password=; MultipleActiveResultSets=True";
             services.AddDbContext<DBContext>(options => options.UseSqlServer(connection));
             services.AddScoped<IDataServices, DataServices>();
             services.AddSwaggerGen(c => 
